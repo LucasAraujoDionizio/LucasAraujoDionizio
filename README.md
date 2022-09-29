@@ -1,5 +1,4 @@
-## Welcome to my Github profile
-## My name is Lucas Araujo da Silva Dionizio, systemS Analysis and Development Student
+## Welcome, Im Lucas Araujo, Systems Analysis and Development student at FATEC
 <div align="center">
 <div align="center">
   <a href="https://github.com/LucasAraujoDionizio">
