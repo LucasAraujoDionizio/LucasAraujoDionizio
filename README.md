@@ -16,7 +16,7 @@
   <img align="center" alt="Lucas-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://imgur.com/a/cckCb8X">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/Un0Cwhg.png">
 </div>
   
   ##
